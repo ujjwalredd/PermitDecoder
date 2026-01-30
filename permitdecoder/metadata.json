@@ -1,7 +1,0 @@
-{
-  "name": "PermitDecoder",
-  "description": "An AI-powered permit consultant that transforms confusing government bureaucracy into clear, actionable project reports using real-time Google Search grounding.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
