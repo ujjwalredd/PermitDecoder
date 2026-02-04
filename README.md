@@ -36,7 +36,7 @@ PermitDecoder transforms complex government permit requirements into structured,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ujjwalredd/PermitDecoder
+git clone https://github.com/ujjwalredd/PermitDecoder.git
 cd permitdecoder
 ```
 
